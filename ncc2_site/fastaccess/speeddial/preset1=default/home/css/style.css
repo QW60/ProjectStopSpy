@@ -27,11 +27,11 @@ body{
 }
 
 .btn1{
-  background-image: linear-gradient(to left,#EA2027,#009432,#0652DD);
+  background-image: linear-gradient(to left,#EA2027,#0652DD,#009432);
 }
 
 .btn2{
-  background-image: linear-gradient(to left,#1e272e,#7f8c8d,#ecf0f1);
+  background-image: linear-gradient(to left,#ecf0f1,#7f8c8d,#1e272e);
 }
 
 .btn:hover{
