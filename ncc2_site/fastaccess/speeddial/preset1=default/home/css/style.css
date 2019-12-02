@@ -27,19 +27,11 @@ body{
 }
 
 .btn1{
-  background-image: linear-gradient(to left,#c0392b,#ff4757,#c0392b);
+  background-image: linear-gradient(to left,#EA2027,#009432,#0652DD);
 }
 
 .btn2{
-  background-image: linear-gradient(to left,#e67e22,#f1c40f,#e67e22);
-}
-
-.btn3{
-  background-image: linear-gradient(to left,#44bd32,#2ed573,#44bd32);
-}
-
-.btn4{
-  background-image: linear-gradient(to left,#3742fa,#1e90ff,#3742fa);
+  background-image: linear-gradient(to left,#1e272e,#7f8c8d,#ecf0f1);
 }
 
 .btn:hover{
